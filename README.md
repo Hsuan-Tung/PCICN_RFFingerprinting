@@ -49,7 +49,7 @@ python eval.py --model_path your_model_path --model_filename your_model.pth --mo
 ```
 Note that if your model is NRL CNN, please change --model PRNN_CNN to --model NRL_CNN.
 
-<!-->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).-->
+<!-- >📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).-->
 
 ## Pre-trained Models
 

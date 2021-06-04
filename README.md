@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 You can download dataset here:
 
-- [Residual dataset of 30 ZigBee devices](https://drive.google.com/drive/folders/1NJBWN4dlSAn_uLX7CIYUnB2zCTFaZ98k?usp=sharing) 
+- [Residual dataset of 30 ZigBee devices](https://drive.google.com/drive/folders/1OjTdA0EHeh_DfGZZ8x0Aj8ShiRKw2BH1?usp=sharing) 
 
 
 ## Training

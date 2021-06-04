@@ -56,7 +56,7 @@ You can download pretrained models here:
 
 Our model achieves the following performance on :
 
-### [RF Fingerprinting on 30 ZigBee devices]%(https://paperswithcode.com/sota/image-classification-on-imagenet)
+### [RF Fingerprinting on 30 ZigBee devices]
 
 | Model name         | Top 1 Accuracy  | # Parameters | Estimated Latency (on PYNQ-Z1) |
 | ------------------ |---------------- | -------------| -------------------------------|

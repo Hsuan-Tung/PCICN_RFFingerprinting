@@ -26,16 +26,16 @@ You can download dataset here:
 
 ## Training
 
-To train the PRNN-CNN model(s) in the paper, run this command:
+To train the PRNN-CNN model in the paper, run this command:
 
 ```train
-python train.py --model PRNN_CNN --data_path your_data_path
+python train.py --model PRNN_CNN --data_path your_data_path --save True --output_dir your_output_dir
 ```
 
-To train the NRL-CNN model(s) in the paper, run this command:
+To train the NRL-CNN model in the paper, run this command:
 
 ```train
-python train.py --model NRL_CNN --data_path your_data_path
+python train.py --model NRL_CNN --data_path your_data_path -save True --output_dir your_output_dir
 ```
 
 <!-- >📋  Describe how to train the models, with example commands on how to train the models in your paper, including the full training procedure and appropriate hyperparameters. -->

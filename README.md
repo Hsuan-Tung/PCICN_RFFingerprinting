@@ -1,9 +1,9 @@
 # PCICN_RFFingerprinting
->📋  A template README.md for code accompanying a Machine Learning paper
 
-# My Paper Title
 
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
+# A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge
+
+This repository is the official implementation of [A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge]. 
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
@@ -17,22 +17,29 @@ pip install -r requirements.txt
 
 >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
 
+## Access to Dataset
+
+You can download dataset here:
+
+- [Residual dataset of 30 ZigBee devices](https://drive.google.com/drive/folders/1NJBWN4dlSAn_uLX7CIYUnB2zCTFaZ98k?usp=sharing) 
+
+
 ## Training
 
 To train the model(s) in the paper, run this command:
 
 ```train
-python train.py --input-data <path_to_data> --alpha 10 --beta 20
+python train.py --input-data <path_to_data> 
 ```
 
 >📋  Describe how to train the models, with example commands on how to train the models in your paper, including the full training procedure and appropriate hyperparameters.
 
 ## Evaluation
 
-To evaluate my model on ImageNet, run:
+To evaluate my model on test dataset, run:
 
 ```eval
-python eval.py --model-file mymodel.pth --benchmark imagenet
+python eval.py --model-file mymodel.pth 
 ```
 
 >📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).

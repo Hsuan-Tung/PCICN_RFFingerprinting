@@ -5,7 +5,7 @@
 
 This repository is the official implementation of [A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge]. 
 
-<!--->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials--->
+<!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
 
 ## Requirements
 

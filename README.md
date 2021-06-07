@@ -23,7 +23,7 @@ You can download dataset here:
 
 - [Residual dataset of 30 ZigBee devices](https://drive.google.com/drive/folders/1OjTdA0EHeh_DfGZZ8x0Aj8ShiRKw2BH1?usp=sharing) 
 - The residaul data of ZigBee transmissions is pre-processed by Princeton University using the method described in Appendix A. The raw data is provided by Naval Research Laboratory. 
-- If you use this dataset for your project, please properly reference [[1]], [[2]]\
+- If you use this dataset for your project, please properly reference [1], [2]\
 <a id="1">[1]</a> 
 Merchant, Kevin et al. “Deep Learning for RF Device Fingerprinting in Cognitive Communication Networks.” IEEE Journal of Selected Topics in Signal Processing 12 (2018): 160-167.\
 <a id="2">[2]</a> 

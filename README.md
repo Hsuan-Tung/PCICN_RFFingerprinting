@@ -3,7 +3,7 @@
 
 # A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge
 
-This repository is the official implementation of [A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge]. 
+This repository is the official implementation of [A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge](https://arxiv.org/abs/2106.13865). 
 
 <!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
 
@@ -27,7 +27,7 @@ The dataset will be available later once it is approved to be publicly released:
 <a id="1">[1]</a> 
 Merchant, Kevin et al. “Deep Learning for RF Device Fingerprinting in Cognitive Communication Networks.” IEEE Journal of Selected Topics in Signal Processing 12 (2018): 160-167.\
 <a id="2">[2]</a> 
-Peng, Hsuan-Tung et al. "A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge", arXiv (2021)
+Peng, Hsuan-Tung et al. "A Photonic-Circuits-Inspired Compact Network: Toward Real-Time Wireless Signal Classification at the Edge", https://arxiv.org/abs/2106.13865
 
 ## Training
 
